@@ -1,0 +1,16 @@
+/* Programmed by: <write your name here>
+Title: DataTypes.Java
+Program Date: <write the date today here> */
+
+public class DataTypes{
+	public static void main (String[] args)	{
+		char c = 'C';
+		int i = 97;
+		double d = 0.00;
+		byte b = 0;
+		System.out.println("c = " + c);
+		System.out.println("i = " + i);
+		System.out.println("d = " + d);
+		System.out.println("b = " + b);
+	}
+}
